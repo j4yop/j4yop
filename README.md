@@ -30,12 +30,6 @@
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=j4yop&style=for-the-badge&color=7c3aed"/>
-<img src="https://img.shields.io/github/followers/j4yop?style=for-the-badge&color=4f46e5"/>
-<img src="https://img.shields.io/github/stars/j4yop?style=for-the-badge&color=8b5cf6"/>
-
 </div>
 
 ---
@@ -47,6 +41,7 @@ I am a **Computer Science Engineering student specializing in Artificial Intelli
 My interests lie at the intersection of **Artificial Intelligence, Machine Learning, Computer Vision, Full Stack Development, and Robotics**. I enjoy transforming research ideas into practical products through strong engineering principles, clean architecture, and data-driven approaches.
 
 I focus on building:
+
 - AI-powered applications with real-world impact
 - Scalable backend systems and developer tools
 - Computer vision and deep learning solutions
@@ -119,7 +114,8 @@ An offline-first emergency communication platform enabling smartphones to operat
 | Impact | Disaster communication resilience |
 | Repository | GitHub |
 
-Built features:
+Features:
+
 - Multimodal emergency assistance
 - Voice and image-based analysis
 - Offline knowledge retrieval
@@ -130,7 +126,7 @@ Built features:
 <br>
 
 <details>
-<summary><b>PitwallEar — AI Driver Stress & Performance Analysis</b></summary>
+<summary><b>PitwallEar — AI Driver Stress & Performance Analysis System</b></summary>
 
 <br>
 
@@ -145,7 +141,8 @@ A multi-agent AI system analyzing Formula 1 radio communication to identify emot
 | Impact | Early performance warning system |
 | Repository | GitHub |
 
-Built features:
+Features:
+
 - Speech emotion analysis
 - Driver state modelling
 - Causal performance analysis
@@ -171,7 +168,8 @@ Research project focused on physics-informed deep learning for flood segmentatio
 | Impact | Disaster monitoring and response |
 | Repository | Research Implementation |
 
-Built features:
+Features:
+
 - D8 terrain-aware routing
 - DEM and HAND integration
 - Physics-informed loss functions
@@ -190,6 +188,7 @@ Built features:
 Developed an AI-driven healthcare monitoring platform focused on early detection of water-borne diseases.
 
 Responsibilities:
+
 - Led a team of 6 engineers
 - Designed backend architecture
 - Built real-time monitoring systems
@@ -210,26 +209,6 @@ Responsibilities:
 | E-Summit 2023 | Participant at Asia's largest entrepreneurship fair |
 
 </div>
-
----
-
-# Certifications
-
-## AWS
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Fundamentals-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-## Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Database%20Certification-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-## NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Online%20Certification-4F46E5?style=for-the-badge"/>
-
-## Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 ---
 
