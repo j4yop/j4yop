@@ -179,21 +179,6 @@ Features:
 
 ---
 
-# Experience
-
-## Lead Architect — Smart Community Health Monitoring System
-
-**Smart India Hackathon Project | 2025**
-
-Developed an AI-driven healthcare monitoring platform focused on early detection of water-borne diseases.
-
-Responsibilities:
-
-- Led a team of 6 engineers
-- Designed backend architecture
-- Built real-time monitoring systems
-- Integrated frontend, backend, and sensor components
-
 **Skills:** AI • Backend Engineering • Firebase • Node.js • Product Development
 
 ---
