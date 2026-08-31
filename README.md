@@ -187,16 +187,8 @@ Features:
 <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-22C55E?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
 <a href="https://www.hackerrank.com/profile/jay_gopaltripat1">
 <img src="https://img.shields.io/badge/HackerRank-16A34A?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-7C2D12?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </div>
