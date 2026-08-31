@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:4c1d95,100:7c3aed&height=220&section=header&text=Jay%20Gopal%20Tripathy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1d3d,50:1d4ed8,100:3b82f6&height=220&section=header&text=Jay%20Gopal%20Tripathy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%26+Robotics+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Computer+Vision+Researcher;Building+Impactful+Technology" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=AI+%26+Robotics+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Computer+Vision+Researcher;Building+Impactful+Technology" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/VIT%20Chennai-CSE%20(AI%20%26%20Robotics)-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Undergraduate-Engineer-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VIT%20Chennai-CSE%20(AI%20%26%20Robotics)-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Undergraduate-Engineer-1D4ED8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/India-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
 <a href="https://jaygopal-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/jaygopaltripathy">
-<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:jay20gopal@gmail.com">
@@ -184,7 +184,7 @@ Features:
 <div align="center">
 
 <a href="https://leetcode.com/u/oM54KoQWvv/">
-<img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-2563EB?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/jay_gopaltripat1">
@@ -199,7 +199,7 @@ Features:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j4yop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j4yop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=2563EB"/>
 
 <br/>
 
@@ -207,7 +207,7 @@ Features:
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=j4yop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=j4yop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=2563EB"/>
 
 </div>
 
