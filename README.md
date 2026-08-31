@@ -77,21 +77,7 @@ I believe great engineering combines **technical depth, product thinking, and us
 
 </div>
 
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning | Advanced | Supervised learning, feature engineering, model evaluation |
-| Deep Learning | Advanced | CNNs, transfer learning, neural architectures |
-| Computer Vision | Advanced | Image segmentation, remote sensing, vision models |
-| Generative AI | Intermediate | LLM applications, RAG pipelines, AI agents |
-| Natural Language Processing | Intermediate | Text analysis, embeddings, AI assistants |
-| Robotics | Intermediate | Sensors, automation, intelligent systems |
-
----
-
+-
 # Featured Projects
 
 <details>
