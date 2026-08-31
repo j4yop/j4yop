@@ -246,9 +246,3 @@ Exploring:
   - AI Agents
   - Robotics
   - Computer Vision
-
-Open To:
-  - Research collaborations
-  - Internship opportunities
-  - Open source contributions
-</div>
