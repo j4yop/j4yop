@@ -221,7 +221,7 @@ Features:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=j4yop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j4yop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED"/>
 
 <br/>
 
@@ -229,29 +229,15 @@ Features:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j4yop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=j4yop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED"/>
 
 </div>
 
----
 
-# GitHub Trophies
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=j4yop&theme=algolia&no-frame=true&margin-w=10"/>
 
-</div>
 
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=j4yop&theme=react-dark&hide_border=true&area=true"/>
-
-</div>
 
 ---
 
