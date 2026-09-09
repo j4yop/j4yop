@@ -173,7 +173,6 @@ Features:
 |---|---|
 | Eureka! Junior 2022 | Finalist (Top-10), E-Cell IIT Bombay |
 | Atal Innovation Marathon | Top 250 Projects — Healthcare Category |
-| E-Summit 2023 | Participant at Asia's largest entrepreneurship fair |
 
 </div>
 
