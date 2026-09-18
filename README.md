@@ -202,7 +202,7 @@ Features:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=j4yop&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com/?user=j4yop&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 <br/>
 
